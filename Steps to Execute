@@ -1,6 +1,7 @@
 1))clone the project
 2)import to editor like eclipse/net beans
 3)run the code
-4)specify the file with IP of nodes you want to check
-5)your file will be created with status
+4)browse the file with IP of nodes you want to check
+5)your file will be created with status in same directory
+6)file name will be file_1 ex. if your file name is "abc" then output file be "abc_1"
 6)close or rerun
